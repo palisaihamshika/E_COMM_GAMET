@@ -20,6 +20,7 @@
   width: 120px;
   margin-top: 50px;
   margin-bottom: 35px;
+  justify-content: start;
 }
 
 @media screen and (min-width: 992px) {

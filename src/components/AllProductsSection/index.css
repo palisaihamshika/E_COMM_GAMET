@@ -1,6 +1,6 @@
 .all-products-section {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 @media screen and (min-width: 768px) {
@@ -71,7 +71,7 @@
 
 .no-products-description {
   text-align: center;
-  color: #64748b;
+  color: #647488;
   font-family: 'Roboto';
   font-size: 14px;
   width: 90%;
@@ -119,7 +119,7 @@
 }
 
 .product-failure-heading-text {
-  color: #171f46;
+  color: #171f44;
   font-family: 'Roboto';
   font-size: 20px;
   font-weight: 500;
